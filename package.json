@@ -4,7 +4,7 @@
   "description": "Verkefni 6",
   "main": "index.js",
   "scripts": {
-    "browser_sync": "browser_sync start --server --files index.html sidur/spil.html sidur/vidburdir.html sidur/skraning.html styles.css"
+    "browser-sync": "browser-sync start --server --files index.html sidur/spil.html sidur/vidburdir.html sidur/skraning.html styles.css"
   },
   "author": "",
   "license": "ISC",
