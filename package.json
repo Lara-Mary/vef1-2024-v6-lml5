@@ -1,0 +1,17 @@
+{
+  "name": "verkefni-6",
+  "version": "1.0.0",
+  "description": "Verkefni 6",
+  "main": "index.js",
+  "scripts": {
+    "browser_sync": "browser_sync start --server --files index.html sidur/spil.html sidur/vidburdir.html sidur/skraning.html styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "concurrently": "^9.0.1",
+    "sass": "^1.79.4",
+    "stylelint": "^16.9.0"
+  }
+}
